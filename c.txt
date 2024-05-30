@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 sim
+=======
+mesmo código
+>>>>>>> teste
